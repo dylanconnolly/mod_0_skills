@@ -1,0 +1,15 @@
+Object: Chair
+
+Attributes:
+height (integer)
+legs (integer)
+material (string)
+backrest (boolean)
+occupied (boolean)
+
+Methods:
+changeMaterial (changes material attribute)
+addLeg (increases legs attribute by +1)
+removeLeg (decreases legs attribute by -1)
+standUp (changes occupied attribute from true to false)
+makeStool (changes backrest attribute from true to false)
