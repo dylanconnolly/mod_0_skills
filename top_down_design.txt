@@ -1,0 +1,46 @@
+How to become a Turing Student
+
+1 Decide to learn to code
+  1.1 Have a passion for coding
+    1.1.1 Read about coding online
+    1.1.2 Work in a related industry
+    1.1.3 Chat with friends/colleagues that are programmers
+    1.1.4 Be exposed to coding at work or at home
+  1.2 Find a bootcamp or school that fits your needs
+    1.2.1 Choose length of program
+    1.2.2 Choose languages you are interested in
+    1.2.3 Choose values and goals you expect the school to have
+2 Apply to Turing
+  2.1 Select Program
+    2.1.1 Select Front-end program
+    2.1.2 Select Back-end program
+  2.2 Submit online application
+    if you have a resume you'd like to upload
+      2.2.1 Upload resume
+    if not
+      2.2.1 answer questions about work and schooling background
+  2.3 Complete online logic questions
+  2.4 Schedule interview with Erin
+    2.4.1 Find calendar link in email
+    2.4.2 Select time that works for you
+  2.5 Complete in-person interview
+    2.5.1 Meet with Erin at scheduled time
+      2.5.1.1 Bring notebook and pen/pencil
+    2.5.2 Complete logic questions
+      2.5.2.1 Work through each problem carefully
+      2.5.2.2 Walk Erin through your thought process as you complete questions
+  2.6 Answer interview questions thoughtfully
+3 Enroll at Turing
+  3.1 Select program start date
+    if deadline to enroll has passed
+      3.1.1 Select later start date
+    if deadline to enroll has not passed
+      3.1.1 Select desired start date
+  3.2 Pay deposit to reserve spot
+  3.3 Pay tuition before deadline
+  3.4 Select Module 0 cohort
+4 Complete pre-work
+  4.1 Attend all Module 0 classes
+  4.2 Participate in classes
+  4.3 Complete homework and assignments on time
+  4.4 Complete Module 0 capstone before deadline
