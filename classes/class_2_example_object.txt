@@ -1,0 +1,16 @@
+Object: Chair
+Instance: office desk chair
+
+Attributes:
+height = 2
+legs = 4
+material = "leather"
+backrest = true
+occupied = true
+
+Methods:
+changeMaterial => material = "nylon"
+addLeg => legs = 5
+removeLeg => legs = 3
+standUp => occupied = false
+makeStool => backrest = false
