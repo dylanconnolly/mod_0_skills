@@ -1,0 +1,18 @@
+Class: Table
+Instance: oak dining room table
+
+Attributes:
+material = "oak"
+width = 10
+length 30
+round = false
+height = 3
+color = "brown"
+numberOfSeats = 8
+surface = "oak"
+
+Methods:
+changeColor = "white"
+addChair => numberOfSeats = 9
+raise => height = 4
+addTablecloth => surface "cloth"
