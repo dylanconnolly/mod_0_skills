@@ -1,0 +1,17 @@
+Class: Table
+
+Attributes:
+material (string)
+width (integer)
+length (integer)
+round (boolean)
+height (integer)
+color (string)
+numberOfSeats (integer)
+surface (string)
+
+Methods:
+changeColor (changes color attribute)
+addChair (increases numberOfSeats attribute by +1)
+raise (increases height attribute by +1)
+addTablecloth (changes surface attribute)
